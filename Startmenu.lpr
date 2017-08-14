@@ -1,7 +1,10 @@
-program Project1;
+program Startmenu;
+
+{$MODE Delphi}
 
 uses
   Forms,
+  Interfaces,
   Unit1 in 'Unit1.pas' {Form1},
   Unit2 in 'Unit2.pas' {Form2};
 
